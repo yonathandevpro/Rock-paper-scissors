@@ -39,4 +39,4 @@ This project was created by Yonathan Berhanu as a simple exercise in web develop
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
